@@ -1,2 +1,2 @@
 # 2021SpringOS
-Operating System class from Dr. TangYang
+Operating Systems class from Dr. TangYang
